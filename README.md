@@ -1,2 +1,13 @@
-# Python-Chatbot
-Learn Python App Deployment and Basic CICD
+# Install python3
+```
+sudo yum update -y
+sudo yum install python3 -y
+sudo yum install python3-pip -y
+```
+
+# Start your Application
+```
+cd /path/to/Jenkins-python-Code
+pip install -r requirements.txt
+python3 run.py
+```
