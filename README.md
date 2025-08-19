@@ -14,3 +14,9 @@ git checkout 01-Local-setup
 pip install -r requirements.txt
 python3 run.py
 ```
+
+open Browser and Check App is working or Not
+```
+http://<Your-Public-IP>:5000
+```
+<img width="514" height="397" alt="image" src="https://github.com/user-attachments/assets/029a10a8-ebc8-4e28-bcc9-d028d24e00f2" />
